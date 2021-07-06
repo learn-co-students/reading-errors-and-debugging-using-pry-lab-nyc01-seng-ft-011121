@@ -1,3 +1,6 @@
+require 'pry'
+
+
 require_relative '../fix_using_tests/false_equivalency'
 
 describe "false_equivalency" do
